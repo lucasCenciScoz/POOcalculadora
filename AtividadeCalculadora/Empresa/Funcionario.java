@@ -2,7 +2,7 @@ package CalculadoraGeometrica.Empresa;
 
 public class Funcionario {
    private String nome;
-    private double salarioBase;
+   private double salarioBase;
 
     public double getSalarioBase() {
         return salarioBase;
